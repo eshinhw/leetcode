@@ -49,14 +49,14 @@ Python, C++
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | two pointers | [Solution](https://quantshin.com/142-linked-list-cycle-ii-medium/) | 🔴 |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | my solution can be improved further, review later | [Solution](https://quantshin.com/14-longest-common-prefix-easy/) | 🟡 |
 | [66. Plus One](https://leetcode.com/problems/plus-one/) | Easy | N/A | [Solution](https://quantshin.com/66-plus-one-easy/) | 🟢 |
-| []() | Easy | N/A | [Solution]() | 🟡 |
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | optimal solution should be reviewed | [Solution](https://quantshin.com/125-valid-palindrome-easy/) | 🟡 |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | N/A | [Solution](https://quantshin.com/88-merge-sorted-array-easy/) | 🟢 |
 
 
 
 
 
-| []() | Easy | N/A | [Solution]() | 🟢 |
+
 
 
 
