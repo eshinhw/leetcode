@@ -59,6 +59,10 @@ Python, C++
 | 44 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | python set? | [Solution](https://quantshin.com/217-contains-duplicate-easy/) | 🟢 |
 | 45 | []() | Easy | Comments | [Solution]() | 🟡 |
 | 46 | []() | Easy | Comments | [Solution]() | 🟡 |
+| 46 | []() | Easy | Comments | [Solution]() | 🟡 |
+| 46 | []() | Easy | Comments | [Solution]() | 🟡 |
+| 46 | []() | Easy | Comments | [Solution]() | 🟡 |
+| 46 | []() | Easy | Comments | [Solution]() | 🟡 |
 
 
 
